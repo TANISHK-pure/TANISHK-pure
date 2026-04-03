@@ -8,8 +8,6 @@ Hardware Architecture for Autonomous Vehicles: Competing in the Gujcost Robofest
 
 EV Battery Optimization Research: Conducting a 12-month industrial research project with Mahindra focused on reducing Electric Vehicle battery pack costs through alternative chemistries, specifically analyzing LFP, LMFP, and Sodium-ion technologies.
 
-e-Yantra Robotics Competition (IIT Bombay): Developing embedded hardware solutions and sensor integration strategies for advanced robotics challenges.
-
 🛠️ Core Hardware Competencies
 PCB Design & Layout: EasyEDA, Multi-layer routing, Copper pouring (Ground Planes), Custom component footprint creation, and Gerber file generation.
 
