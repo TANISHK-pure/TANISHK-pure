@@ -17,10 +17,8 @@ Circuit Integration: Bi-directional Logic Level Shifting (3.3V to 5V), Power dis
 
 Embedded Hardware: Teensy 4.0, STM32, ESP32, Arduino, and Single-Board Computers (Raspberry Pi).
 
-Mechanical & CAD: Autodesk Fusion 360 (3D structural modeling and Static Structural Analysis for hardware mounting).
-
 📈 Engineering Philosophy
-I believe that reliable software is useless without a rock-solid electrical foundation. I prioritize clean power delivery, proper trace-width management (e.g., separating 1.0mm power lines from 0.3mm signal data), and strict adherence to Design Rule Checks (DRC) to ensure zero-defect manufacturing.
+I believe that reliable software is useless without a rock-solid electrical foundation. I prioritize clean power delivery, proper trace-width management, and strict adherence to Design Rule Checks (DRC) to ensure zero-defect manufacturing.
 
 🤝 Let's Connect
 I am always open to discussing custom electronics, EV battery innovations, and embedded hardware engineering opportunities. Feel free to reach out to me via email or drop me a text on LinkedIn!
